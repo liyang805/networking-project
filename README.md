@@ -1,4 +1,4 @@
-# networking-project
+# Switching and Routing Essentials
 Cisco Network Security Project
 Overview
 
